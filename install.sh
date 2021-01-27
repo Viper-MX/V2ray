@@ -143,7 +143,7 @@ echo "Default username：${un}"
 echo "default password：${pw}"
 echo ''
 echo "Enter v2ray and press Enter to manually manage the related functions of the web panel"
-echo "v2ray Panel - VpsPack Successfully installed"
+echo "v2ray Panel - ADM-MX Successfully installed"
 
 #清理垃圾文件
 rm -rf /root/config.json
